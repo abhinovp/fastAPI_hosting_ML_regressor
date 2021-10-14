@@ -13,11 +13,11 @@ ML_Price_Prediction
 |--v1
 |main.py
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ippudkippude/fastAPI/blob/main/fold_struct.PNG)
 
 ## Step 2: Start uvicorn instance on cmd/powershell
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ippudkippude/fastAPI/blob/main/uvi_postman.PNG)
 
 ## Step 3: From Postman use a request format JSON as below to include car details and POST:
 
